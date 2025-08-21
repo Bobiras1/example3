@@ -1,0 +1,4 @@
+spr!
+greeting = "Hello!"
+reversed_greeting = ~~greeting
+print(reversed_greeting)  # !olleH
